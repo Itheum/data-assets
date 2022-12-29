@@ -1,9 +1,9 @@
 ### Original Source (Credit):
 https://github.com/BuzzFeedNews/nics-firearm-background-checks
 
-### Formats
-- CSV
-- PDF
+### Data Asset Links : 
+- [Data Stream (CSV)](https://raw.githubusercontent.com/Itheum/data-assets/main/Misc/M1__FBI_Firearm_Background_Check_Data/csv/dataset.csv) | [Data Preview (CSV)](https://raw.githubusercontent.com/Itheum/data-assets/main/Misc/M1__FBI_Firearm_Background_Check_Data/csv/preview.csv)  
+- [Data Stream (PDF)](https://raw.githubusercontent.com/Itheum/data-assets/main/Misc/M1__FBI_Firearm_Background_Check_Data/pdf/dataset.pdf) | [Data Preview (PDF)](https://raw.githubusercontent.com/Itheum/data-assets/main/Misc/M1__FBI_Firearm_Background_Check_Data/pdf/preview.pdf)
 
 ### Title:
 FBI NICS Firearm Background Check Data by month, state, and type
