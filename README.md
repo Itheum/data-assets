@@ -26,3 +26,7 @@ Below is the catalog of available data assets. You will find assets in various f
 2. Gold sponsors of the Rumble in the Data NFT jungle: The Championship Round
 
 - [Data Stream (JPG)](https://raw.githubusercontent.com/Itheum/data-assets/main/Misc/Gold_Sponsors/DataStream.jpg?v=100) | [Data Preview (JPG)](https://raw.githubusercontent.com/Itheum/data-assets/main/Misc/Gold_Sponsors/DataPreview.jpg)
+
+2. General "No Preview" Image
+
+- [Data Preview (JPG)](https://raw.githubusercontent.com/Itheum/data-assets/main/Misc/Random/nopreview.png)
