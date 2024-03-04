@@ -27,6 +27,12 @@ Below is the catalog of available data assets. You will find assets in various f
 
 - [Data Stream (JPG)](https://raw.githubusercontent.com/Itheum/data-assets/main/Misc/Gold_Sponsors/DataStream.jpg?v=100) | [Data Preview (JPG)](https://raw.githubusercontent.com/Itheum/data-assets/main/Misc/Gold_Sponsors/DataPreview.jpg)
 
-2. General "No Preview" Image
+3. General "No Preview" Image
 
 - [Data Preview (JPG)](https://raw.githubusercontent.com/Itheum/data-assets/main/Misc/Random/nopreview.png)
+
+4. "Key to your Data" Sample Images
+
+- [Data Key Image 1 (JPG)](https://raw.githubusercontent.com/Itheum/data-assets/main/Misc/Random/img-key-visual-1.jpg)
+
+- [Data Key Image 2 (JPG)](https://raw.githubusercontent.com/Itheum/data-assets/main/Misc/Random/img-key-visual-2.jpg)
