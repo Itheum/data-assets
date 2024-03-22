@@ -1,0 +1,35 @@
+{
+  "data_stream": {
+    "category": "musicplaylist",
+    "name": "SuperCatZ Music Alpha",
+    "creator": "SuperCatZ",
+    "created_on": "2023-12-15",
+    "last_modified_on": "2024-02-01",
+    "marshalManifest": {
+      "totalItems": 2,
+      "nestedStream": "true"
+    }
+  },
+  "data": [
+    {
+      "idx": 1,
+      "date": "2023-12-21T00:00:00.000Z",
+      "category": "rock",
+      "artist": "SuperCatZ",
+      "album": "SuperCatZ Genesis",
+      "file": "https://ipfs.io/ipfs/QmVZewxJcR6Z21HMbsJfMuif8ci1KV7E79yBVAvTuULcPH/1.-audio.fdsa.-1702638904-329201.mp3",
+      "cover_art_url": "https://ipfs.io/ipfs/QmVZewxJcR6Z21HMbsJfMuif8ci1KV7E79yBVAvTuULcPH/1.-image.fdsa.-1702638904-266409.jpg",
+      "title": "Rock blues"
+    },
+    {
+      "idx": 2,
+      "date": "2024-02-20T00:00:00.000Z",
+      "category": "Jazz",
+      "artist": "SuperCatZ",
+      "album": "SuperCatZ Genesis",
+      "file": "https://gateway.lighthouse.storage/ipfs/QmVghntEcp5Fu2AWEit8dbGNvbiudMBEVMzKYcyeSGAmN9/6213.audio_sadsad.mp3",
+      "cover_art_url": "https://gateway.lighthouse.storage/ipfs/QmVghntEcp5Fu2AWEit8dbGNvbiudMBEVMzKYcyeSGAmN9/6228.image_sadsad.jpg",
+      "title": "Jazz forever"
+    }
+  ]
+}
