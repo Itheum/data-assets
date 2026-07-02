@@ -12,11 +12,11 @@ set -euo pipefail
 #   mxpy wallet bech32 --decode erd1youraddress...
 #
 # Optional env:
-#   API_URL    (default: https://devnet-api.multiversx.com)
-#   SC_ADDRESS (default: devnet life bonding contract)
+#   API_URL    (default: https://api.multiversx.com)
+#   SC_ADDRESS (default: mainnet life bonding contract)
 
-API_URL="${API_URL:-https://devnet-api.multiversx.com}"
-SC_ADDRESS="${SC_ADDRESS:-erd1qqqqqqqqqqqqqpgqhlyaj872kyh620zsfew64l2k4djerw2tfsxsmrxlan}"
+API_URL="${API_URL:-https://api.multiversx.com}"
+SC_ADDRESS="${SC_ADDRESS:-erd1qqqqqqqqqqqqqpgq9yfa4vcmtmn55z0e5n84zphf2uuuxxw9c77qgqqwkn}" # mainnet life bonding contract
 
 ADDR_HEX="${1:-}"
 if [[ -z "${ADDR_HEX}" ]]; then

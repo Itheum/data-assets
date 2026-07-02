@@ -8,12 +8,12 @@ set -euo pipefail
 #   ./interaction/query-address-bonds.sh erd1f02qxj7zcds358dlytw25ggtcwvuwd054c7mgk8hnnqwqq0hnp4sad5209
 #
 # Optional env overrides:
-#   API_URL      (default: https://devnet-api.multiversx.com)
-#   SC_ADDRESS   (default: devnet life bonding contract)
+#   API_URL      (default: https://api.multiversx.com)
+#   SC_ADDRESS   (default: mainnet life bonding contract)
 #   TOKEN_DECIMALS (default: 18)
 
-API_URL="${API_URL:-https://devnet-api.multiversx.com}"
-SC_ADDRESS="${SC_ADDRESS:-erd1qqqqqqqqqqqqqpgqhlyaj872kyh620zsfew64l2k4djerw2tfsxsmrxlan}"
+API_URL="${API_URL:-https://api.multiversx.com}"
+SC_ADDRESS="${SC_ADDRESS:-erd1qqqqqqqqqqqqqpgq9yfa4vcmtmn55z0e5n84zphf2uuuxxw9c77qgqqwkn}" # mainnet life bonding contract
 TOKEN_DECIMALS="${TOKEN_DECIMALS:-18}"
 
 USER_ADDRESS="${1:-}"
